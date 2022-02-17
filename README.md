@@ -1,2 +1,3 @@
 # Fraud-Detection-
-machine learning project to find the whether the transaction is fraud or not
+Machine Learning Project which applies various algorithms to test which algorithm is best suited for credit card fraud detection.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747486
